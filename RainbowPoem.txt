@@ -9,6 +9,7 @@ Green
 Blue
 Indigo
 Violet
+Black
 Unicorn
 
 The colors of the rainbow and the unicorn
