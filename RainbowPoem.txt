@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 ROYGBIV
 
@@ -9,3 +9,6 @@ Green
 Blue
 Indigo
 Violet
+Unicorn
+
+The colors of the rainbow and the unicorn
